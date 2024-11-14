@@ -1,0 +1,21 @@
+_id,Date,Dist,Site_ID,Toco_ID,Toco_Owner,Cir,SOB_hrs,SOB_count,DG_hrs,Derived_DG_hrs,DG_count,MF_hrs,MF_count,LB_hrs,LB_count,SO_hrs,SO_count,Source,EB_On,EB_Fail,EB_DG_SOB_24hrs,SLA_Remarks,Alarm_Compliance,AQI_EB_DG_BB,AQI_DG_Automation,AQI_Alarms_Reported,DG_remarks
+668644a8394127debab7fba4,2023-09-20,NOIDA,10012_DL,SKND06,AIRTEL,MP,16.36,4,8.39,1.94,7,0.71,1,12.4,10,2.6,9,Minor Intra/No Outage,7,3,11,SLA Meet,Alarm Non-compliance,86,66,1,DG Non-operational
+668644a8394127debab7fba5,2023-09-20,FARIDABAD,10011_DL,SKND04,BSNL,DL,17.67,10,21.98,1.37,4,5.46,5,17.77,4,12.12,1,No Intra/No Outage,8,3,20,SLA Meet,Alarm Non-compliance,6,98,9,DG Non-operational
+668644a8394127debab7fba6,2023-09-24,BULANDSHAHR,10011_DL,SKND07,BSNL,DL,15.91,7,23.56,21.21,8,22.92,0,19.09,2,3.84,5,No Intra/No Outage,1,1,20,SLA Meet,Alarm Non-compliance,40,2,4,DG Non-operational
+668644a8394127debab7fba7,2023-09-21,NOIDA,10010_DL,SKND08,BSNL,UP,14.44,4,7.41,17.57,4,1.17,4,13.01,3,12.63,9,No Intra/No Outage,5,0,15,SLA Not Meet,Alarm Compliance,29,9,9,DG Non-operational
+668644a8394127debab7fba8,2023-09-29,BULANDSHAHR,10010_DL,SKND07,IDEA,MP,4.91,0,18.84,17.87,1,15.5,8,15.76,4,17.75,0,No Intra/No Outage,18,5,23,SLA Not Meet,Alarm Non-compliance,91,82,8,DG Non-operational
+668644a8394127debab7fba9,2023-09-21,FARIDABAD,10011_DL,SKND07,VODAFONE,DL,0.49,6,15.72,5.17,5,5.03,0,22.34,9,23.51,1,Minor Intra/No Outage,6,1,14,SLA Meet,Alarm Non-compliance,61,70,4,DG Operational
+668644a8394127debab7fbaa,2023-10-02,GURGAON,10013_DL,SKND07,IDEA,DL,19.61,1,1.71,23.64,6,9.08,0,10.14,2,22.66,9,No Intra/No Outage,14,4,18,SLA Not Meet,Alarm Non-compliance,87,52,10,DG Operational
+668644a8394127debab7fbab,2023-09-20,NOIDA,10012_DL,SKND08,BSNL,RJ,4.15,8,17.36,16.57,5,5.9,6,12.82,8,18.89,9,Minor Intra/No Outage,15,4,4,SLA Meet,Alarm Non-compliance,34,96,7,DG Non-operational
+668644a8394127debab7fbac,2023-09-25,NOIDA,10012_DL,SKND07,IDEA,DL,22.58,3,2.83,19.02,9,15.47,4,7.95,7,21.03,4,Minor Intra/No Outage,3,3,2,SLA Meet,Alarm Non-compliance,4,63,5,DG Operational
+668644a8394127debab7fbad,2023-10-02,DELHI,10012_DL,SKND04,INDUS,RJ,6.35,9,12.2,5.99,9,4.02,2,2.36,7,21.44,1,No Intra/No Outage,8,1,14,SLA Meet,Alarm Non-compliance,17,90,2,DG Operational
+668644a8394127debab7fbae,2023-09-30,GURGAON,10013_DL,SKND04,IDEA,HR,1.38,10,19.37,8.09,6,1.42,6,14.64,8,6.1,8,No Intra/No Outage,15,5,8,SLA Not Meet,Alarm Non-compliance,8,91,3,DG Non-operational
+668644a8394127debab7fbaf,2023-10-02,NOIDA,10010_DL,SKND05,AIRTEL,RJ,10.87,1,14.21,7.68,0,11.14,9,9.57,5,10.02,0,No Intra/No Outage,20,0,4,SLA Meet,Alarm Compliance,53,74,10,DG Non-operational
+668644a8394127debab7fbb0,2023-09-24,BULANDSHAHR,10010_DL,SKND05,VODAFONE,MP,21.04,0,5.98,11.07,2,12.18,9,18.11,0,19.66,3,Major Intra/Partial Outage,3,3,11,SLA Meet,Alarm Non-compliance,11,95,6,DG Operational
+668644a8394127debab7fbb1,2023-09-28,NOIDA,10014_DL,SKND08,AIRTEL,DL,19.3,8,3.95,6.1,6,19.08,2,16.4,5,1.5,8,No Intra/No Outage,17,1,10,SLA Not Meet,Alarm Compliance,51,88,4,DG Non-operational
+668644a8394127debab7fbb2,2023-09-26,BULANDSHAHR,10014_DL,SKND06,IDEA,MP,14.72,9,23.78,1.83,6,14.59,9,0.82,2,0.91,7,Major Intra/Partial Outage,17,5,13,SLA Meet,Alarm Non-compliance,86,28,6,DG Operational
+668644a8394127debab7fbb3,2023-09-14,FARIDABAD,10010_DL,SKND04,AIRTEL,RJ,4.37,7,12.68,13.18,6,23.32,4,19.64,6,11.81,1,Major Intra/Partial Outage,6,1,17,SLA Not Meet,Alarm Compliance,78,57,10,DG Operational
+668644a8394127debab7fbb4,2023-09-21,NOIDA,10010_DL,SKND05,VODAFONE,DL,4.0,4,22.28,21.59,3,10.2,0,14.71,5,18.18,9,Minor Intra/No Outage,16,3,22,SLA Not Meet,Alarm Compliance,93,5,2,DG Non-operational
+668644a8394127debab7fbb5,2023-09-23,NOIDA,10013_DL,SKND04,BSNL,HR,1.82,10,5.35,21.64,0,14.6,7,16.63,9,3.87,9,No Intra/No Outage,9,0,9,SLA Not Meet,Alarm Compliance,25,24,4,DG Operational
+668644a8394127debab7fbb6,2023-09-27,GURGAON,10014_DL,SKND05,VODAFONE,DL,11.86,4,5.8,9.99,0,11.02,5,0.29,7,1.18,3,Minor Intra/No Outage,24,2,17,SLA Meet,Alarm Non-compliance,68,49,5,DG Non-operational
+668644a8394127debab7fbb7,2023-09-21,BULANDSHAHR,10013_DL,SKND08,IDEA,MP,10.36,8,20.07,14.77,6,23.87,8,10.75,10,16.21,2,No Intra/No Outage,5,3,23,SLA Meet,Alarm Non-compliance,59,61,4,DG Non-operational
